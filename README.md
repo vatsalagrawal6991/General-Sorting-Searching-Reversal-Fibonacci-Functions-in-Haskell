@@ -10,7 +10,8 @@
 6) Run recursiveQuick a for quick Sort
 7) Run tailInsertion a for insertion sort
 
-Problem Statment 
+Problem Statment
+
   Implement tail-recursive reversal of a list.
 • Implement tail-recursive merge sort.
 • Implement tail-recursive Fibonacci function.
