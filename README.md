@@ -1,5 +1,6 @@
 # Made By Vatsal Agrawal
 # General-Sorting-Searching-Reversal-Fibonacci-Functions-in-Haskell
+# Merge Sort, Binary Search, Insertion Sort, Quick Sort, Fibonacci Series ,Reversal of List, High order Summation Function with tail recursive or inductive proof
 
 **************************HOW TO MAKE EXECUTABLE AND RUN PROGRAMME******************************
 1) Run recursiveBinary a b c d for Binary Search
